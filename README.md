@@ -10,8 +10,7 @@
 ## Web Links
 ### Tableau
 [View Tableau Profile](https://public.tableau.com/app/profile/shashish.shoda)
-### Git Hub
-[View Git Profile](https://public.tableau.com/app/profile/shashish.shoda)
+
 
 
 
